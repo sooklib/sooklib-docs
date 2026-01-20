@@ -13,7 +13,7 @@ Sooklib 支持 `config/config.yaml` 与环境变量配置。
 | TZ | 时区 | Asia/Shanghai |
 | APP_VERSION | 当前版本号 | 1.0.0 |
 | APP_CHANNEL | 更新通道 | beta |
-| UPDATE_URL | update.json 地址 | https://raw.githubusercontent.com/Haruka041/sooklib-docs/main/update.json |
+| UPDATE_URL | update.json 地址 | https://raw.githubusercontent.com/sooklib/sooklib-docs/main/update.json |
 
 ## config.yaml 常用字段
 

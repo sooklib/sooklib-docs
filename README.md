@@ -22,8 +22,8 @@ Sooklib 是一个以「书库」为核心的自托管书城/书库系统，强�
 
 ## 部署方式
 建议使用 Docker 镜像部署：
-- GHCR：`ghcr.io/haruka041/sooklib`
-- DockerHub：`docker.io/haruka041/sooklib`
+- GHCR：`ghcr.io/sooklib/sooklib`
+- DockerHub：`docker.io/sooklib/sooklib`
 
 快速部署与配置请参考：
 - `docs/getting-started.md`
@@ -48,4 +48,4 @@ Sooklib 通过 `update.json` 检测版本更新：
 
 ## 反馈与支持
 如果你有问题或建议，请到主仓库提交 Issue：
-`https://github.com/Haruka041/sooklib`
+`https://github.com/sooklib/sooklib`

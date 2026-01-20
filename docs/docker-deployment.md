@@ -3,8 +3,8 @@
 Sooklib 使用容器部署最稳定，支持 GHCR 与 DockerHub 镜像。
 
 ## 镜像地址
-- GHCR：`ghcr.io/haruka041/sooklib`
-- DockerHub：`docker.io/haruka041/sooklib`
+- GHCR：`ghcr.io/sooklib/sooklib`
+- DockerHub：`docker.io/sooklib/sooklib`
 
 ## docker-compose 示例
 
@@ -13,7 +13,7 @@ version: '3.8'
 
 services:
   sooklib:
-    image: ghcr.io/haruka041/sooklib:latest
+    image: ghcr.io/sooklib/sooklib:latest
     container_name: sooklib
     ports:
       - "8080:8080"
@@ -29,7 +29,7 @@ services:
       - ADMIN_PASSWORD=admin123
       - SECRET_KEY=your-secret-key-change-this-to-random-string
       - APP_CHANNEL=beta
-      - UPDATE_URL=https://raw.githubusercontent.com/Haruka041/sooklib-docs/main/update.json
+      - UPDATE_URL=https://raw.githubusercontent.com/sooklib/sooklib-docs/main/update.json
     restart: unless-stopped
 ```
 

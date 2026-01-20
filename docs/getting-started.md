@@ -11,7 +11,7 @@ mkdir sooklib && cd sooklib
 ## 2. 下载 docker-compose.yml
 
 ```bash
-curl -O https://raw.githubusercontent.com/Haruka041/sooklib/main/docker-compose.yml
+curl -O https://raw.githubusercontent.com/sooklib/sooklib/main/docker-compose.yml
 ```
 
 ## 3. 修改配置

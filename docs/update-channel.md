@@ -12,13 +12,13 @@ Sooklib 使用 `update.json` 维护版本信息，客户端定期检查更新。
 {
   "stable": {
     "version": "v1.2.3",
-    "url": "https://github.com/Haruka041/sooklib/releases/tag/v1.2.3",
+    "url": "https://github.com/sooklib/sooklib/releases/tag/v1.2.3",
     "notes": "稳定版更新说明",
     "published_at": "2026-01-20"
   },
   "beta": {
     "version": "beta-acde123",
-    "url": "https://github.com/Haruka041/sooklib",
+    "url": "https://github.com/sooklib/sooklib",
     "notes": "测试版更新说明",
     "published_at": "2026-01-20"
   }
