@@ -48,4 +48,4 @@ Sooklib 通过 `update.json` 检测版本更新：
 
 ## 反馈与支持
 如果你有问题或建议，请到主仓库提交 Issue：
-`https://github.comharuka041/sooklib`
+`https://github.com/sooklib/sooklib`
