@@ -40,8 +40,11 @@ Sooklib 通过 `update.json` 检测版本更新：
 ## 文档导航
 - 快速开始：`docs/getting-started.md`
 - Docker 部署：`docs/docker-deployment.md`
+- 运维指南：`docs/ops-guide.md`
 - 配置说明：`docs/configuration.md`
+- API 参考（Swagger）：`docs/api-reference.md`
 - 使用指南：`docs/library-usage.md`
+- 用户手册：`docs/user-manual.md`
 - Telegram Bot：`docs/telegram-bot.md`
 - AI 功能：`docs/ai-features.md`
 - 更新与通道：`docs/update-channel.md`
